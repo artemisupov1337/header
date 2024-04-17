@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    }
+    
+    .header {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    padding: 20px 20%;
+    background: transparent;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    }
+    
+    .navbar a{
+    font-size:25px;
+    text-decoration:none;
+    font-weight: 700;
+    margin-left: 25px;
+    }
+    .minimo {
+      font-size: 30px;
+      font-family: "Inconsolata";
+      color: rgb(0, 0, 0);
+    }
+    .lifestyle {
+      font-size: 14px;
+      font-family: "PlayfairDisplay";
+      color: rgb(98, 98, 98);
+    }
+    .photodiary {
+      font-size: 14px;
+      font-family: "PlayfairDisplay";
+      color: rgb(98, 98, 98);
+    }
+    .travel {
+      font-size: 14px;
+      font-family: "PlayfairDisplay";
+      color: rgb(98, 98, 98);
+    }
+    .music {
+      font-size: 14px;
+      font-family: "PlayfairDisplay";
+      color: rgb(98, 98, 98);
+    }
